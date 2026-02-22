@@ -107,13 +107,13 @@ Cleaning steps include:
 Instead of random chunking, the resume is split using common headers:
 
 ```
-EDUCATION
-PROJECTS
-SKILLS
-RESEARCH
-CERTIFICATIONS
-ACHIEVEMENTS
-EXTRACURRICULAR
+    "EDUCATION",
+    "INTERNSHIP",
+    "PROJECTS",
+    "SKILLS",
+    "ACHIEVEMENTS",
+    "CERTIFICATES",
+    "EXTRA-CURRICULAR ACTIVITIES"
 ```
 
 **Why section-based splitting?**
